@@ -1,0 +1,248 @@
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\appsettings.Development.json
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\appsettings.json
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.staticwebassets.runtime.json
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.exe
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.deps.json
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.runtimeconfig.json
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.pdb
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\EntityFramework.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Data.SQLite.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.CodeDom.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Data.SQLite.EF6.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\linux-x64\native\libsqlite3.so
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\osx-x64\native\libsqlite3.dylib
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win7-x64\native\sqlite3.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win7-x86\native\sqlite3.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win-x64\native\SQLite.Interop.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win-x86\native\SQLite.Interop.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.AssemblyReference.cache
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.AssemblyInfoInputs.cache
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.AssemblyInfo.cs
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.CoreCompileInputs.cache
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.RazorAssemblyInfo.cache
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.RazorAssemblyInfo.cs
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication4.props
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication4.props
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication4.props
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets.build.json
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets.development.json
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\scopedcss\bundle\WebApplication4.styles.css
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\scopedcss\projectbundle\WebApplication4.bundle.scp.css
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.CopyComplete
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\refint\WebApplication4.dll
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.pdb
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.genruntimeconfig.cache
+E:\Coding\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\ref\WebApplication4.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\appsettings.Development.json
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\appsettings.json
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.staticwebassets.runtime.json
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.exe
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.deps.json
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.runtimeconfig.json
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.pdb
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\EntityFramework.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Data.SQLite.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.CodeDom.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Data.SQLite.EF6.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\linux-x64\native\libsqlite3.so
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\osx-x64\native\libsqlite3.dylib
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win7-x64\native\sqlite3.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win7-x86\native\sqlite3.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win-x64\native\SQLite.Interop.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win-x86\native\SQLite.Interop.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.AssemblyReference.cache
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.AssemblyInfoInputs.cache
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.AssemblyInfo.cs
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.CoreCompileInputs.cache
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.RazorAssemblyInfo.cache
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.RazorAssemblyInfo.cs
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication4.props
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication4.props
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication4.props
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets.build.json
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets.development.json
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\scopedcss\bundle\WebApplication4.styles.css
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\scopedcss\projectbundle\WebApplication4.bundle.scp.css
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.CopyComplete
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\refint\WebApplication4.dll
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.pdb
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.genruntimeconfig.cache
+E:\Coding\CodingGl3\Sems1\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\ref\WebApplication4.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\appsettings.Development.json
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\appsettings.json
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.staticwebassets.runtime.json
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.exe
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.deps.json
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.runtimeconfig.json
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.pdb
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\EntityFramework.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Data.SQLite.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.CodeDom.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Data.SqlClient.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Data.SQLite.EF6.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Drawing.Common.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Security.Permissions.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Windows.Extensions.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\linux-x64\native\libsqlite3.so
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\osx-x64\native\libsqlite3.dylib
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win7-x64\native\sqlite3.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win7-x86\native\sqlite3.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win-x64\native\SQLite.Interop.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win-x86\native\SQLite.Interop.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.AssemblyReference.cache
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.AssemblyInfoInputs.cache
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.AssemblyInfo.cs
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.CoreCompileInputs.cache
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.RazorAssemblyInfo.cache
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.RazorAssemblyInfo.cs
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication4.props
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication4.props
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication4.props
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets.pack.json
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets.build.json
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets.development.json
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\scopedcss\bundle\WebApplication4.styles.css
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\scopedcss\projectbundle\WebApplication4.bundle.scp.css
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.CopyComplete
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\refint\WebApplication4.dll
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.pdb
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.genruntimeconfig.cache
+W:\Coding\INSAT\CodingGl3\.NET\Other - Test\WebApplication4\WebApplication4\obj\Debug\net7.0\ref\WebApplication4.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\appsettings.Development.json
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\appsettings.json
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\WebApplication4.staticwebassets.runtime.json
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\WebApplication4.exe
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\WebApplication4.deps.json
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\WebApplication4.runtimeconfig.json
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\WebApplication4.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\WebApplication4.pdb
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\EntityFramework.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\System.Data.SQLite.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\System.CodeDom.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\System.Data.SqlClient.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\System.Data.SQLite.EF6.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\System.Drawing.Common.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\System.Security.Permissions.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\System.Windows.Extensions.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\runtimes\linux-x64\native\libsqlite3.so
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\runtimes\osx-x64\native\libsqlite3.dylib
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\runtimes\win7-x64\native\sqlite3.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\runtimes\win7-x86\native\sqlite3.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\runtimes\win-x64\native\SQLite.Interop.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\runtimes\win-x86\native\SQLite.Interop.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.AssemblyReference.cache
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\obj\Debug\net7.0\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\obj\Debug\net7.0\WebApplication4.AssemblyInfoInputs.cache
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\obj\Debug\net7.0\WebApplication4.AssemblyInfo.cs
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.CoreCompileInputs.cache
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\obj\Debug\net7.0\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\obj\Debug\net7.0\WebApplication4.RazorAssemblyInfo.cache
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\obj\Debug\net7.0\WebApplication4.RazorAssemblyInfo.cs
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication4.props
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication4.props
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication4.props
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\obj\Debug\net7.0\staticwebassets.pack.json
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\obj\Debug\net7.0\staticwebassets.build.json
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\obj\Debug\net7.0\staticwebassets.development.json
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\obj\Debug\net7.0\scopedcss\bundle\WebApplication4.styles.css
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\obj\Debug\net7.0\scopedcss\projectbundle\WebApplication4.bundle.scp.css
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.CopyComplete
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\obj\Debug\net7.0\WebApplication4.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\obj\Debug\net7.0\refint\WebApplication4.dll
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\obj\Debug\net7.0\WebApplication4.pdb
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\obj\Debug\net7.0\WebApplication4.genruntimeconfig.cache
+W:\Coding\INSAT\CodingGl3\.NET\TP3-NET\WebApplication4\obj\Debug\net7.0\ref\WebApplication4.dll
